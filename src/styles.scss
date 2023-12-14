@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~dhtmlx-scheduler/codebase/dhtmlxscheduler_material.css';
+body,
+html {
+   width: 100%;
+   height: 100%;
+   margin: unset;
+}
